@@ -74,9 +74,9 @@ In data validation checks performed against available source-of-truth health fac
 [linkedin-url]: https://www.linkedin.com/company/credprotocol/
 [cred-shield]: https://img.shields.io/badge/Sign%20up-Cred%20Protocol%20Beta-335EEB?style=for-the-badge&labelColor=414141
 [cred-shield2]: https://img.shields.io/badge/Stay%20Up%20To%20Date%20With-Cred%20Protocol%20Beta-414141?style=for-the-badge&labelColor=414141
-[cred-url]: https://credprotocol.typeform.com/cred-waitlist?typeform-source=www.credprotocol.com
+[cred-url]: https://credprotocol.typeform.com/cred-waitlist?utm_source=github
 [cred-api-shield]: https://img.shields.io/badge/DOCS-Cred%20Protocol%20API-335EEB?style=for-the-badge&labelColor=414141
-[cred-api]: https://beta.credprotocol.com/docs/api
+[cred-api]: https://beta.credprotocol.com/docs/api?utm_source=github
 [cred-twitter-shield]: https://img.shields.io/badge/-@Cred__Protocol-335EEB?&logo=twitter&style=for-the-badge&logoColor=white&labelColor=414141
 [cred-twitter]: https://twitter.com/cred_protocol
 [cred-github-shield]: https://img.shields.io/badge/-credprotocol-335EEB?&logo=github&style=for-the-badge&logoColor=white&labelColor=414141

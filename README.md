@@ -20,7 +20,7 @@
 ```python
 import pandas as pd
 
-url = "https://github.com/credprotocol/health-factor-dataset/blob/main/data/0x01acb3804ba9c42111c6e9c127831eb486ca1ac7.csv?raw=True"
+url = "https://github.com/credprotocol/Aave-V2-Health-Factor-Dataset/blob/main/data/0x01acb3804ba9c42111c6e9c127831eb486ca1ac7.csv?raw=True"
 df = pd.read_csv(url)
 ```
 - Using wget

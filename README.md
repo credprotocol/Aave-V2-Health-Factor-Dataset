@@ -1712,7 +1712,7 @@ In data validation checks performed against available source-of-truth health fac
 <div>
 <p float="left" align="middle">
 	  <a href="https://credprotocol.com">
-		<img alt="Cred Protocol" height="150" src="https://github.com/credprotocol/health-factor-dataset/blob/main/img/diamondlogo-transparent.png">
+		<img alt="Cred Protocol" height="150" src="https://github.com/credprotocol/Aave-V2-Health-Factor-Dataset/blob/main/img/diamondlogo-transparent.png">
 </a>
 </p>
 	

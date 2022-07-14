@@ -34,7 +34,7 @@ wget https://www.dropbox.com/s/broi2ybdhduvm1f/Aave-v2-health-factor-sample.csv?
 
 - Using wget
 ```
-wget https://www.dropbox.com/home?preview=aave-v2-health-factor-complete.csv.zip?dl=1
+wget https://www.dropbox.com/s/bbkmwh8skt6w5d8/aave-v2-health-factor-complete.csv.zip?dl=1
 ```
 
 ##  📖 Why this dataset?

@@ -32,6 +32,11 @@ wget https://drive.google.com/uc?export=download&id=1nzDJ6T51avrOexboV1ZARUNEg1g
 
 [![Complete HF Matrix][cred-full-shield]][cred-full]
 
+- Using wget
+```
+wget https://drive.google.com/uc?export=download&id=180k3AwxbLQJCt5OkIQPdv49kgRI93dT8
+```
+
 ##  📖 Why this dataset?
 
 A more granular version of this dataset is the solid foundation upon which our DeFi credit scoring models are built. Reconstructing historical health factors in small intervals is one of the tools we've developed the help us judge creditworthiness among DeFi users. Because we've grown to appreciate the complexities of Aave health factor data, we want to release a dataset that can help users understand the composition of a health factor.

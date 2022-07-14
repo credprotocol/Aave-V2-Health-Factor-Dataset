@@ -48,10 +48,7 @@ The following diagram details the main phases of creating this dataset. Generall
 - Collecting on-chain data by capturing the emission of every associated event starting at the launch of Aave V2
 - Combining the off-chain and on-chain data and feeding the resulting values through transformations and ultimately the Aave health factor formula 
 
-<div>
-		<img alt="Aave V2 Health Factor Dataset Data Flow" height="400" src="https://github.com/credprotocol/Aave-V2-Health-Factor-Dataset/blob/main/img/Aave%20V2%20Health%20Factor%20Dataset%20Data%20Flow.jpg" width="1200">
-
-</div>
+![](https://raw.githubusercontent.com/credprotocol/Aave-V2-Health-Factor-Dataset/main/img/Aave%20V2%20Health%20Factor%20Dataset%20Data%20Flow.jpg)
 
 ## :floppy_disk: What kinds of values are in this dataset?
 

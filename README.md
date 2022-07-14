@@ -25,7 +25,7 @@ df = pd.read_csv(url)
 ```
 - Using wget
 ```
-wget https://drive.google.com/uc?export=download&id=1nzDJ6T51avrOexboV1ZARUNEg1g--KlE
+wget https://www.dropbox.com/home?preview=Aave-v2-health-factor-sample.csv?dl=1
 ```
 
 ### Complete public Aave V2 health factor dataset (1.33M rows, 1.91GB)
@@ -34,7 +34,7 @@ wget https://drive.google.com/uc?export=download&id=1nzDJ6T51avrOexboV1ZARUNEg1g
 
 - Using wget
 ```
-wget https://drive.google.com/uc?export=download&id=180k3AwxbLQJCt5OkIQPdv49kgRI93dT8
+wget https://www.dropbox.com/home?preview=aave-v2-health-factor-complete.csv.zip?dl=1
 ```
 
 ##  📖 Why this dataset?

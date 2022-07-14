@@ -83,9 +83,9 @@ In data validation checks performed against available source-of-truth health fac
 [cred-github]: https://github.com/credprotocol
 [cred-sample]: https://github.com/credprotocol/health-factor-dataset/blob/main/data/0x01acb3804ba9c42111c6e9c127831eb486ca1ac7.csv
 [cred-sample-shield]: https://img.shields.io/badge/Browser%20View-Aave%20Health%20Factor%20Sample%20Dataset-335EEB?style=for-the-badge&labelColor=414141
-[cred-full]: https://drive.google.com/file/d/180k3AwxbLQJCt5OkIQPdv49kgRI93dT8/view?usp=sharing
+[cred-full]: https://bit.ly/aave-dataset
 [cred-full-shield]: https://img.shields.io/badge/Drive-Aave%20Health%20Factor%20Complete%20Dataset-335EEB?style=for-the-badge&labelColor=414141&logo=googledrive&logoColor=white
-[cred-sample2]: https://drive.google.com/file/d/1nzDJ6T51avrOexboV1ZARUNEg1g--KlE/view
+[cred-sample2]: https://bit.ly/aave-sampledata
 [cred-sample-shield2]: https://img.shields.io/badge/Drive-Aave%20Health%20Factor%20Sample%20Dataset-335EEB?style=for-the-badge&labelColor=414141&logo=googledrive&logoColor=white
 [cred-sample3]: https://drive.google.com/uc?export=download&id=1nzDJ6T51avrOexboV1ZARUNEg1g--KlE
 [cred-sample-shield3]: https://img.shields.io/badge/Download%20Link-Aave%20Health%20Factor%20Sample%20Dataset-335EEB?style=for-the-badge&labelColor=414141
